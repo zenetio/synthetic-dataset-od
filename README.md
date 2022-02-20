@@ -4,7 +4,7 @@
 
 This notebook is based on notebook of Alex P that can be found [here](https://github.com/alexppppp/synthetic-dataset-object-detection).
 
-This project makes use of albumentatioos library to generate synthetic images. Albumentations is a fast and flexible image augmentation library project that can be found [here](https://github.com/albumentations-team/albumentations).
+This project makes use of albumentatioos library to generate synthetic images for object detection, but you can use the generated synthetic images in any other project where you need add more images. Albumentations is a fast and flexible image augmentation library project that can be found [here](https://github.com/albumentations-team/albumentations).
 
 I've updated the notebook adding comments and the COCO format to the generated images.
 
